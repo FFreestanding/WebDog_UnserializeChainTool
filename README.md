@@ -1,5 +1,5 @@
 # WebDog_UnserializeChainTool
-webdog堆屎山而成的小工具
+webdog堆屎山而成的ysoserial的UI版
 ## 安装
 下载后点击UnserializeChainTool.msi
 ## 卸载
